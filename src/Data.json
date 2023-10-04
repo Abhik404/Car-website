@@ -1,0 +1,306 @@
+[
+    {
+        "id":1,
+        "name": "Audi Q7",
+        "year": "2019",
+        "fuel": "Hybrid",
+        "price": "$400",
+        "distance": "6.1KM / 1-Litre",
+        "icon": "images/Audi Q7.jpeg"
+    },
+    {
+        "id":2,
+        "name": "Bentley Continental",
+        "year": "2020",
+        "fuel": "Gasoline",
+        "price": "$800",
+        "distance": "7.2KM / 1-Litre",
+        "icon": "images/Bentley Continental GT.webp"
+    },
+    {
+        "id":3,
+        "name": "BMW 7 Series ",
+        "year": "2020",
+        "fuel": "Hybrid",
+        "price": "$350",
+        "distance": "5.1KM / 1-Litre",
+        "icon": "images/BMW 7 series.webp"
+    },
+    {
+        "id":4,
+        "name": "Ferrari Roma",
+        "year": "2020",
+        "fuel": "Gasoline",
+        "price": "$870",
+        "distance": "3.5KM / 1-Litre",
+        "icon": "images/Ferrari Roma.webp"
+    },
+    {
+        "id":5,
+        "name": "Ford Mondeo",
+        "year": "2020",
+        "fuel": "Hybrid",
+        "price": "$400",
+        "distance": "5.6KM / 1-Litre",
+        "icon": "images/Ford Mondeo.jpg"
+    },
+    {
+        "id":6,
+        "name": "Volvo XC 40",
+        "year": "2021",
+        "fuel": "Hybrid",
+        "price": "$550",
+        "distance": "8.3KM / 1-Litre",
+        "icon": "images/volvo XC 40 recharge.jpeg"
+    },
+    {
+        "id":7,
+        "name": "Lamborgini",
+        "year": "2022",
+        "fuel": "Gasoline",
+        "price": "$675",
+        "distance": "2.8KM / 1-Litre",
+        "icon": "images/Lamborgini Aventador.jpg"
+    },
+    {
+        "id":8,
+        "name": "Mahindra Thar",
+        "year": "2023",
+        "fuel": "Gasoline",
+        "price": "$250",
+        "distance": "8.9KM / 1-Litre",
+        "icon": "images/Thar1.webp"
+    },
+    {
+        "id":9,
+        "name": "Range Discovery",
+        "year": "2021",
+        "fuel": "Hybrid",
+        "price": "$400",
+        "distance": "6.1KM / 1-Litre",
+        "icon": "images/discovery.jpg"
+    },
+    {
+        "id":10,
+        "name": "Jaguar f-Type",
+        "year": "2021",
+        "fuel": "Hybrid",
+        "price": "$700",
+        "distance": "4.8KM / 1-Litre",
+        "icon": "images/jaguar.jpg"
+    },{
+        "id":11,
+        "name": "Range Defender",
+        "year": "2022",
+        "fuel": "Gasoline",
+        "price": "$500",
+        "distance": "8.1KM / 1-Litre",
+        "icon": "images/Defender.jpg"
+    },
+    {
+        "id":12,
+        "name": "Range Rover Sport",
+        "year": "2022",
+        "fuel": "Hybrid",
+        "price": "$570",
+        "distance": "5.9KM / 1-Litre",
+        "icon": "images/Sport.webp"
+    },
+    {
+        "id":13,
+        "name": "Mercedie 2023",
+        "year": "2023",
+        "fuel": "Hybrid",
+        "price": "$400",
+        "distance": "6.1KM / 1-Litre",
+        "icon": "images/Mercedies.webp"
+    },
+    {
+        "id":14,
+        "name": "Ford Wildtrack",
+        "year": "2020",
+        "fuel": "Gasoline",
+        "price": "$700",
+        "distance": "5.3KM / 1-Litre",
+        "icon": "images/wildtrack.png"
+    },
+    {
+        "id":15,
+        "name": "Mercedes 2023",
+        "year": "2023",
+        "fuel": "Gasoline",
+        "price": "$800",
+        "distance": "6.1KM / 1-Litre",
+        "icon": "images/AMG.jpg"
+    },
+    {
+        "id":16,
+        "name": "Rolls Royce",
+        "year": "2022",
+        "fuel": "Gasoline",
+        "price": "$1400",
+        "distance": "5.5KM / 1-Litre",
+        "icon": "images/Rolls.jpg"
+    },
+    {
+        "id":17,
+        "name": "Porsche 2023",
+        "year": "2023",
+        "fuel": "Hybrid",
+        "price": "$350",
+        "distance": "3.1KM / 1-Litre",
+        "icon": "images/Porsche 1.webp"
+    },
+    {
+        "id":18,
+        "name": "Audi Q7",
+        "year": "2019",
+        "fuel": "Hybrid",
+        "price": "$400",
+        "distance": "6.1KM / 1-Litre",
+        "icon": "images/Audi Q7.jpeg"
+    },
+    {
+        "id":19,
+        "name": "Bentley Continental",
+        "year": "2020",
+        "fuel": "Gasoline",
+        "price": "$800",
+        "distance": "7.2KM / 1-Litre",
+        "icon": "images/Bentley Continental GT.webp"
+    },
+    {
+        "id":20,
+        "name": "BMW 7 Series ",
+        "year": "2020",
+        "fuel": "Hybrid",
+        "price": "$350",
+        "distance": "5.1KM / 1-Litre",
+        "icon": "images/BMW 7 series.webp"
+    },
+    {
+        "id":21,
+        "name": "Ferrari Roma",
+        "year": "2020",
+        "fuel": "Gasoline",
+        "price": "$870",
+        "distance": "3.5KM / 1-Litre",
+        "icon": "images/Ferrari Roma.webp"
+    },
+    {
+        "id":22,
+        "name": "Ford Mondeo",
+        "year": "2020",
+        "fuel": "Hybrid",
+        "price": "$400",
+        "distance": "5.6KM / 1-Litre",
+        "icon": "images/Ford Mondeo.jpg"
+    },
+    {
+        "id":23,
+        "name": "Volvo XC 40",
+        "year": "2021",
+        "fuel": "Hybrid",
+        "price": "$550",
+        "distance": "8.3KM / 1-Litre",
+        "icon": "images/volvo XC 40 recharge.jpeg"
+    },
+    {
+        "id":24,
+        "name": "Lamborgini",
+        "year": "2022",
+        "fuel": "Gasoline",
+        "price": "$675",
+        "distance": "2.8KM / 1-Litre",
+        "icon": "images/Lamborgini Aventador.jpg"
+    },
+    {
+        "id":25,
+        "name": "Mahindra Thar",
+        "year": "2023",
+        "fuel": "Gasoline",
+        "price": "$250",
+        "distance": "8.9KM / 1-Litre",
+        "icon": "images/Thar1.webp"
+    },
+    {
+        "id":26,
+        "name": "Range Discovery",
+        "year": "2021",
+        "fuel": "Hybrid",
+        "price": "$400",
+        "distance": "6.1KM / 1-Litre",
+        "icon": "images/discovery.jpg"
+    },
+    {
+        "id":27,
+        "name": "Jaguar f-Type",
+        "year": "2021",
+        "fuel": "Hybrid",
+        "price": "$700",
+        "distance": "4.8KM / 1-Litre",
+        "icon": "images/jaguar.jpg"
+    },{
+        "id":28,
+        "name": "Range Defender",
+        "year": "2022",
+        "fuel": "Gasoline",
+        "price": "$500",
+        "distance": "8.1KM / 1-Litre",
+        "icon": "images/Defender.jpg"
+    },
+    {
+        "id":29,
+        "name": "Range Rover Sport",
+        "year": "2022",
+        "fuel": "Hybrid",
+        "price": "$570",
+        "distance": "5.9KM / 1-Litre",
+        "icon": "images/Sport.webp"
+    },
+    {
+        "id":30,
+        "name": "Mercedie 2023",
+        "year": "2023",
+        "fuel": "Hybrid",
+        "price": "$400",
+        "distance": "6.1KM / 1-Litre",
+        "icon": "images/Mercedies.webp"
+    },
+    {
+        "id":31,
+        "name": "Ford Wildtrack",
+        "year": "2020",
+        "fuel": "Gasoline",
+        "price": "$700",
+        "distance": "5.3KM / 1-Litre",
+        "icon": "images/wildtrack.png"
+    },
+    {
+        "id":32,
+        "name": "Mercedes 2023",
+        "year": "2023",
+        "fuel": "Gasoline",
+        "price": "$800",
+        "distance": "6.1KM / 1-Litre",
+        "icon": "images/AMG.jpg"
+    },
+    {
+        "id":33,
+        "name": "Rolls Royce",
+        "year": "2022",
+        "fuel": "Gasoline",
+        "price": "$1400",
+        "distance": "5.5KM / 1-Litre",
+        "icon": "images/Rolls.jpg"
+    },
+    {
+        "id":34,
+        "name": "Porsche 2023",
+        "year": "2023",
+        "fuel": "Hybrid",
+        "price": "$350",
+        "distance": "3.1KM / 1-Litre",
+        "icon": "images/Porsche 1.webp"
+    }
+]
